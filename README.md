@@ -70,4 +70,9 @@ nucmer -p prefixo_saida referencia.fasta contigs.fasta
 show-coords -rcl prefixo_saida.delta > alinhamento.coords
 ```
 
+--------------------------------
+### Os dados foram analisados utilizando o Notebook *grafico_mummer.ipynb*
+![SA-5-ITB-COVIDSEQ](https://github.com/user-attachments/assets/86b04cbd-5c6c-4605-ab3f-49f0328a9ae1)
+
+
 
